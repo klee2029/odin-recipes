@@ -6,6 +6,7 @@ A basic recipe website with links to a few recipes.
 ## Skills
 - Headings
 - Paragraphs
+- Bold and Italic Text
 - Unordered and Ordered Lists
 - Links
 - Images
